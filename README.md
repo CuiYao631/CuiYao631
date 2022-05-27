@@ -16,8 +16,8 @@
 技能：
 开发语言、 (go、c#、python、Java)技术一般不是很菜鸡、熟练使用 CTRL+C 和 CTRL+V
 
-硬件方面、 硬件设计、应用电路设计、完整无误的抄各种大牛的电路图
+硬件方面、 PCB设计、绘制、应用电路设计、完整无误照抄各种大牛的电路图
      
-其它技能、能熟练进行Linux以及Windows等系统的开关机.能熟练使用sudo rm -rf /*和DROP DATABASE % 等指令快速删库跑路！
+其它技能、能熟练进行Linux,Mac以及Windows等系统的开关机.能熟练使用sudo rm -rf /*和DROP DATABASE % 等指令快速删库跑路！
 
 ### 🎃微信公众号：（小崔搞科技）
