@@ -10,8 +10,7 @@
 <br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CuiYao631&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiYao631&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" /> -->
-
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiYao631&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" /> 
 ## 🛠技能:
 技能：
 开发语言、 (go、c#、python、Java)技术一般不是很菜鸡、熟练使用 CTRL+C 和 CTRL+V
