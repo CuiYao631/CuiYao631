@@ -79,8 +79,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mini_program-server-go&theme=dark&bg_color=0d1117&hide_border=true" /></a> 
 <a href="https://github.com/CuiYao631/esp-outlet">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-outlet&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/CuiYao631/esp-outlet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-outlet&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/CuiYao631/esp-HomeKit-diy" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-HomeKit-diy&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 ## 🎃微信公众号：（小崔搞科技）
