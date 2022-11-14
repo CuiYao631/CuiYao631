@@ -79,13 +79,13 @@
         <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiYao631&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
     </a>
     <a href="https://github.com/CuiYao631/mini_program-server-go">
-        <img  height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mini_program-server-go&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img  height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mini_program-server-go&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
     </a> 
     <a href="https://github.com/CuiYao631/esp-outlet" >
-        <img  height="150px"   src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-outlet&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img  height="150px"   src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-outlet&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
     </a>
     <a href="https://github.com/CuiYao631/esp-HomeKit-diy" >
-        <img  height="150px"  src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-HomeKit-diy&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img  height="150px"  src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-HomeKit-diy&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
     </a>
 </div>
 
