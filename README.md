@@ -75,9 +75,9 @@
   
  <!-- 比较好的开源项目卡片 -->
 <div align="center">
-    <a>
-        <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiYao631&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
-    </a>
+<a href="https://github.com/CuiYao631/Game-for-Ebitengine">
+        <img  height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=Game-for-Ebitengine&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
+    </a> 
     <a href="https://github.com/CuiYao631/mini_program-server-go">
         <img  height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mini_program-server-go&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
     </a> 
