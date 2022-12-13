@@ -69,7 +69,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 
-## ✅源项目:
+## ✅开源项目:
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=CuiYao631&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" /> -->
   
