@@ -21,7 +21,7 @@
 <!-- 贪吃蛇代码贡献图 -->
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 
-#  🙋 我是小崔同学 <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
+#  🙋 我是小崔同学 
 
 
 <!-- <p>✍️&nbsp;&nbsp;你好，我是小崔同学! 热爱计算机科学和IT互联网事业，喜欢写代码、平时也会做一些开源项目，懂点电路知识、也设计制作一些有意思的电子产品、偶尔还会兼职给朋友同事修理一下手机和电脑😂，励志成为一名全能的程序员!</p> -->
