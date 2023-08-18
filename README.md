@@ -28,7 +28,7 @@
 
 ## 🛠技能:
 
-开发语言、 (go、c#、python、Java、WPF)技术一般不是很菜鸡、熟练使用 CTRL+C 和 CTRL+V
+开发语言、 (go、c++、c#、python、Java、WPF)技术一般不是很菜鸡、熟练使用 CTRL+C 和 CTRL+V
 
 硬件方面、 PCB设计、绘制、应用电路设计、完整无误照抄各种大牛的电路图
 
