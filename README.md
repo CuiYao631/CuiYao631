@@ -28,11 +28,11 @@
 
 ## 🛠技能:
 
-开发语言、 (go、c++、c#、python、Java、WPF)技术一般不是很菜鸡、熟练使用 CTRL+C 和 CTRL+V
+开发语言： (go、c++、c#、python、Java、WPF)技术一般不是很菜鸡、熟练使用 CTRL+C 和 CTRL+V
 
-硬件方面、 PCB设计、绘制、应用电路设计、完整无误照抄各种大牛的电路图
+硬件方面： PCB设计、绘制、应用电路设计、完整无误照抄各种大牛的电路图
 
-其它技能、能熟练进行Linux,Mac以及Windows等系统的开关机.能熟练使用sudo rm -rf /*和DROP DATABASE % 等指令快速删库跑路！
+擅长技能： 精通刷机贴膜、能熟练进行Linux,Mac以及Windows等系统的开关机、能熟练使用sudo rm -rf /*和DROP DATABASE % 等指令快速删库跑路！
 
 💪 正在学习: 
 
