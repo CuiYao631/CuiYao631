@@ -9,14 +9,16 @@
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br> -->
 <!-- 个人资料徽标 -->
-<!-- <div align="center">
-  <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
+<div align="center">
+  <a href="https://www.xcuitech.com/"><img src="https://img.shields.io/badge/XcuitTech-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+<!--   <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
   <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp; -->
+  <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp; -->
+  <a href="https://blog.csdn.net/qq_32548551/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://space.bilibili.com/49402035/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/XiaoCuiGaoKeJi-%E5%85%AC%E4%BC%97%E5%8F%B7-1E9225"></a>&emsp;
+<!--   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp; -->
+</div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
@@ -24,13 +26,11 @@
 #  🙋 我是小崔同学 
 
 
-<!-- <p>✍️&nbsp;&nbsp;你好，我是小崔同学! 热爱计算机科学和IT互联网事业，喜欢写代码、平时也会做一些开源项目，懂点电路知识、也设计制作一些有意思的电子产品、偶尔还会兼职给朋友同事修理一下手机和电脑😂，励志成为一名全能的程序员!</p> -->
-
 ## 🛠技能:
 
-开发语言： (go、c++、c#、python、Java、WPF)技术一般不是很菜鸡、熟练使用 CTRL+C 和 CTRL+V
+开发语言： Golang、C、C++、C#、Python、Java、WPF、熟练使用 CTRL+C 和 CTRL+V
 
-硬件方面： PCB设计、绘制、应用电路设计、完整无误照抄各种大牛的电路图
+硬件方面： PCB设计、绘制、电路设计、懂点电器知识，平时会抄一些大神的电路
 
 擅长技能： 精通刷机贴膜、能熟练进行Linux,Mac以及Windows等系统的开关机、能熟练使用sudo rm -rf /*和DROP DATABASE % 等指令快速删库跑路！
 
