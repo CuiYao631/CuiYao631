@@ -77,26 +77,26 @@
 <div align="center">
   <div>
     <a href="https://github.com/CuiYao631/Game-for-Ebitengine" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=Game-for-Ebitengine&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=Game-for-Ebitengine&theme=dark&bg_color=0d1117&hide_border=true" />
     </a> 
     <a href="https://github.com/CuiYao631/mini_program-server-go">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mini_program-server-go&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mini_program-server-go&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
   </div>
    <div>
     <a href="https://github.com/CuiYao631/esp-outlet" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-outlet&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-outlet&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
     <a href="https://github.com/CuiYao631/esp-HomeKit-diy" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-HomeKit-diy&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-HomeKit-diy&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
   </div>
    <div>
     <a href="https://github.com/CuiYao631/mqtt-outlet" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mqtt-outlet&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mqtt-outlet&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
     <a href="https://github.com/CuiYao631/esp32-Keyboard" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp32-Keyboard&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp32-Keyboard&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
   </div>
 </div>
