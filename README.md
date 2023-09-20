@@ -37,36 +37,36 @@
 💪 正在学习: 
 
 &emsp;&emsp;
-![Golang](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=Go&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Docker](https://img.shields.io/badge/-Docker-00add8?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![kubernetes](https://img.shields.io/badge/-kubernetes-00add8?style=flat-square&logo=kubernetes&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-3d5b89.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-D18D31.svg?style=flat-square&logo=mysql&logoColor=white)
+<img src = "https://img.shields.io/badge/-Golang-1572B6?style=flat&logo=Go&logoColor=white">
+<img src = "https://img.shields.io/badge/-C++-00599C?style=flat&logo=c&logoColor=white">
+<img src = "https://img.shields.io/badge/-Docker-00add8?style=flat&logo=docker&logoColor=white">
+<img src = "https://img.shields.io/badge/-Python-1e9225?style=flat&logo=Python&logoColor=white">
+<img src = "https://img.shields.io/badge/-kubernetes-00add8?style=flat&logo=kubernetes&logoColor=white">
+<img src = "https://img.shields.io/badge/-postgresql-28537E?style=flat&logo=postgresql&logoColor=white">
+<img src = "https://img.shields.io/badge/-mysql-ED7F1A?style=flat&logo=mysql&logoColor=white">
 
 
 🧠 计划学习:
 
 &emsp;&emsp;
-![Rust](https://img.shields.io/badge/-Rust-00599C?style=flat-square&logo=Rust)
-![Docker](https://img.shields.io/badge/-Docker-00add8?style=flat-square&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/-kubernetes-00add8?style=flat-square&logo=kubernetes&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-3d5b89.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-D18D31.svg?style=flat-square&logo=mysql&logoColor=white)
+<img src = "https://img.shields.io/badge/-Rust-00599C?style=flat&logo=Rust&logoColor=white">
+<img src = "https://img.shields.io/badge/-Docker-00add8?style=flat&logo=docker&logoColor=white">
+<img src = "https://img.shields.io/badge/-kubernetes-00add8?style=flat&logo=kubernetes&logoColor=white">
+<img src = "https://img.shields.io/badge/-postgresql-28537E?style=flat&logo=postgresql&logoColor=white">
+<img src = "https://img.shields.io/badge/-mysql-ED7F1A?style=flat&logo=mysql&logoColor=white">
 
 🧰 常用的工具:
 
 &emsp;&emsp; 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Mac](https://img.shields.io/badge/Mac-979FA4?style=flat-square&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![ios](https://img.shields.io/badge/ios-979FA4?style=flat-square&logo=ios&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+<img src = "https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white">
+<img src = "https://img.shields.io/badge/-Mac-979FA4?style=flat&logo=apple&logoColor=white">
+<img src = "https://img.shields.io/badge/-Linux-FCC624??style=flat&logo=linux&logoColor=black">
+<img src = "https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white">
+<img src = "https://img.shields.io/badge/-ios-979FA4?style=flat&logo=ios&logoColor=black">
+<img src = "https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white">
+<img src = "https://img.shields.io/badge/-Edge-0078D7?style=flat&logo=Microsoft-edge&logoColor=white">
+<img src = "https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
+<img src = "https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white">
 
 
 ## ✅开源项目:
