@@ -91,6 +91,14 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-HomeKit-diy&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
     </a>
   </div>
+   <div>
+    <a href="https://github.com/CuiYao631/mqtt-outlet" >
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-outlet&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
+    </a>
+    <a href="https://github.com/CuiYao631/esp32-Keyboard" >
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-HomeKit-diy&layout=compact&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" />
+    </a>
+  </div>
 </div>
 
 
