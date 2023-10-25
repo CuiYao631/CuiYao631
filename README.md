@@ -76,8 +76,8 @@
  <!-- 比较好的开源项目卡片 -->
 <div align="center">
   <div>
-    <a href="https://github.com/CuiYao631/Game-for-Ebitengine" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=Game-for-Ebitengine&theme=dark&bg_color=0d1117&hide_border=true" />
+    <a href="https://github.com/CuiYao631/wails-demo-go" >
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=wails-demo-go&theme=dark&bg_color=0d1117&hide_border=true" />
     </a> 
     <a href="https://github.com/CuiYao631/mini_program-server-go">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mini_program-server-go&theme=dark&bg_color=0d1117&hide_border=true" />
