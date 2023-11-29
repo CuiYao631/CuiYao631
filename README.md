@@ -99,6 +99,14 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp32-Keyboard&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
   </div>
+   <div>
+    <a href="https://github.com/CuiYao631/DDNS-module" >
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=DDNS-module&theme=dark&bg_color=0d1117&hide_border=true" />
+    </a>
+    <a href="https://github.com/CuiYao631/HR-App" >
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=HR-App&theme=dark&bg_color=0d1117&hide_border=true" />
+    </a>
+  </div>
 </div>
 
 
