@@ -94,8 +94,8 @@
     </a>
   </div>
    <div>
-    <a href="https://github.com/CuiYao631/mqtt-outlet" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mqtt-outlet&theme=dark&bg_color=0d1117&hide_border=true" />
+    <a href="https://github.com/CuiYao631/esp8266-switch" >
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp8266-switch&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
     <a href="https://github.com/CuiYao631/esp32-Keyboard" >
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp32-Keyboard&theme=dark&bg_color=0d1117&hide_border=true" />
