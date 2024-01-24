@@ -32,7 +32,7 @@
 
 开发语言： Golang、C、C++、C#、Python、Java、WPF、熟练使用 CTRL+C 和 CTRL+V
 
-硬件方面： PCB设计、绘制、电路设计、懂点电器知识，擅长焊板子
+硬件方面： PCB设计、绘制、电路设计、懂点电子技术
 
 擅长技能： 精通刷机贴膜、能熟练进行Linux,Mac以及Windows等系统的开关机、能熟练使用sudo rm -rf /*和DROP DATABASE % 等指令快速删库跑路！
 
