@@ -21,22 +21,20 @@
 <!--   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp; -->
 </div>
 
-<!-- 贪吃蛇代码贡献图 -->
+
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 
-<!--#  🙋 我是小崔同学 -->
 
 
+## 🛠Proficient:
 
-## 🛠技能:
+Development Language： Golang、C、C++、C#、Python、Java、WPF、Skilled use CTRL+C 和 CTRL+V
 
-开发语言： Golang、C、C++、C#、Python、Java、WPF、熟练使用 CTRL+C 和 CTRL+V
+Hardware： PCB design, drawing, circuit design, and understanding of electronic technology
 
-硬件方面： PCB设计、绘制、电路设计、懂点电子技术
+Proficient in skills： Proficient in flashing and applying films, proficient in turning on and off Linux, Mac, and Windows systems, proficient in using commands such as sudo rm - rf/* and DROP DATABASE% to quickly delete libraries and run away!
 
-擅长技能： 精通刷机贴膜、能熟练进行Linux,Mac以及Windows等系统的开关机、能熟练使用sudo rm -rf /*和DROP DATABASE % 等指令快速删库跑路！
-
-💪 正在学习: 
+💪 Learning: 
 
 &emsp;&emsp;
 <img src = "https://img.shields.io/badge/-Golang-1572B6?style=flat&logo=Go&logoColor=white">
@@ -48,7 +46,7 @@
 <img src = "https://img.shields.io/badge/-mysql-ED7F1A?style=flat&logo=mysql&logoColor=white">
 
 
-🧠 计划学习:
+🧠 Planned Learning:
 
 &emsp;&emsp;
 <img src = "https://img.shields.io/badge/-Rust-00599C?style=flat&logo=Rust&logoColor=white">
@@ -57,7 +55,7 @@
 <img src = "https://img.shields.io/badge/-postgresql-28537E?style=flat&logo=postgresql&logoColor=white">
 <img src = "https://img.shields.io/badge/-mysql-ED7F1A?style=flat&logo=mysql&logoColor=white">
 
-🧰 常用的工具:
+🧰 Common tools:
 
 &emsp;&emsp; 
 <img src = "https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white">
@@ -71,11 +69,8 @@
 <img src = "https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white">
 
 
-## ✅开源项目:
+## ✅Open source projects:
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=CuiYao631&show_icons=true&title_color=516FA3&icon_color=516FA3&text_color=91A8D0&bg_color=22272E&hide_title=false&locale=cn" /> -->
-  
- <!-- 比较好的开源项目卡片 -->
 <div align="center">
   <div>
     <a href="https://github.com/CuiYao631/DevMate" >
