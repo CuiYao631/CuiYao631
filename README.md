@@ -19,6 +19,7 @@
   <a href="https://space.bilibili.com/49402035/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href=""><img src="https://img.shields.io/badge/XiaoCuiGaoKeJi-%E5%85%AC%E4%BC%97%E5%8F%B7-1E9225"></a>&emsp;
 <!--   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp; -->
+  <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
 
