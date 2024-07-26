@@ -98,7 +98,7 @@ Proficient in skills： Proficient in flashing and applying films, proficient in
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=DDNS-module&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
     <a href="https://github.com/CuiYao631/E-Paper-4.2" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=HR-App&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=E-Paper-4.2&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
   </div>
 </div>
