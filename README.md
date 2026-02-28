@@ -71,34 +71,34 @@ Proficient in skills： Proficient in flashing and applying films, proficient in
 <div align="center">
   <div>
     <a href="https://github.com/CuiYao631/DevMate" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=DevMate&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=CuiYao631&repo=DevMate&theme=dark&bg_color=0d1117&hide_border=true" />
     </a> 
     <a href="https://github.com/CuiYao631/mini_program-server-go">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=mini_program-server-go&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=CuiYao631&repo=mini_program-server-go&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
   </div>
    <div>
     <a href="https://github.com/CuiYao631/xc-toolbox" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=xc-toolbox&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=CuiYao631&repo=xc-toolbox&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
     <a href="https://github.com/CuiYao631/esp-HomeKit-diy" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp-HomeKit-diy&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=CuiYao631&repo=esp-HomeKit-diy&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
   </div>
    <div>
     <a href="https://github.com/CuiYao631/esp8266-switch" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp8266-switch&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=CuiYao631&repo=esp8266-switch&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
     <a href="https://github.com/CuiYao631/esp32-Keyboard" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=esp32-Keyboard&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=CuiYao631&repo=esp32-Keyboard&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
   </div>
    <div>
     <a href="https://github.com/CuiYao631/HomeSpan-project" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=HomeSpan-project&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=CuiYao631&repo=HomeSpan-project&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
     <a href="https://github.com/CuiYao631/E-Paper-4.2" >
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuiYao631&repo=E-Paper-4.2&theme=dark&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=CuiYao631&repo=E-Paper-4.2&theme=dark&bg_color=0d1117&hide_border=true" />
     </a>
   </div>
 </div>
